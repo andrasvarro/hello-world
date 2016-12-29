@@ -7,7 +7,7 @@ package helloworld;
 
 /**
  *
- * @author wp9om
+ * @author andras.varro@freemail.hu
  */
 public class HelloWorld {
 
